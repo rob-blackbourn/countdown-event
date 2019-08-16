@@ -1,0 +1,12 @@
+venv
+.venv
+__pycache__
+dist
+*.egg-info
+.eggs
+.pytest_cache
+.idea
+.vscode
+.pytest_cache
+.history
+.mypy_cache

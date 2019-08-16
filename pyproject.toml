@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "zero-event"
+version = "0.1.0"
+description = "An asyncio event which blocks when none zero"
+authors = ["Rob Blackbourn <rob.blackbourn@gmail.com>"]
+license = "Apache-2.0"
+readme = "README.md"
+repository = "https://github.com/rob-blackbourn/zero-event"
+
+[tool.poetry.dependencies]
+python = "^3.7"
+
+[tool.poetry.dev-dependencies]
+pytest = "^5.1"
+pytest-asyncio = "^0.10.0"
+
+[build-system]
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"
