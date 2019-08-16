@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "countdown-event"
 version = "0.1.0"
-description = "An asyncio event which blocks until the ccount reaches zero"
+description = "An asyncio event which blocks until the count reaches zero"
 authors = ["Rob Blackbourn <rob.blackbourn@gmail.com>"]
 license = "Apache-2.0"
 readme = "README.md"
