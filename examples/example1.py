@@ -1,4 +1,4 @@
-"""Test For CountdownEvent"""
+"""Example For CountdownEvent"""
 
 import asyncio
 from countdown_event import CountdownEvent
