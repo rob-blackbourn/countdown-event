@@ -2,6 +2,8 @@
 
 A synchronization class which blocks when the count is not zero.
 
+## Usage
+
 Here's an example
 
 ```python
@@ -61,4 +63,12 @@ decremented count to 1
 decremented count to 0
 countdown event cleared
 done
+```
+
+## Installation
+
+Install from pypi.
+
+```bash
+$ pip install countdown-event
 ```
